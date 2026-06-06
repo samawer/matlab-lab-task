@@ -9,3 +9,9 @@ while num > 0
 end
 
 end
+
+script:
+num = 12345;
+result = Reverse_Number(num);
+fprintf('Reverse = %d\n', result);
+
