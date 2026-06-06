@@ -5,3 +5,6 @@ for i = 1:10
 end
 
 end
+
+script:
+Table_Generator(7);
