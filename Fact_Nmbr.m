@@ -8,5 +8,7 @@ end
 
 end 
 
+script: 
+
 result = Fact_Nmbr(5);
 disp(result);
